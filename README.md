@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangsungu)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangsungu)
 
 <!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=gangsungu&theme=cold)-->
 
